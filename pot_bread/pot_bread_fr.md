@@ -1,6 +1,8 @@
 # Pain cocotte
 
-Voici une recette de pain à préparer sans effort et à cuire au four dans une cocotte (pas besoin de petrin ou de machine à pain)
+Voici une recette de pain à préparer sans effort et à cuire au four dans une cocotte (pas besoin de petrin ou de machine à pain).
+
+La préparation est rapide mais la levée lente (20 heure en tout)
 
 ## Ingrédients
 - 500g de farine
@@ -9,6 +11,7 @@ Voici une recette de pain à préparer sans effort et à cuire au four dans une 
 - du sel
 
 - Une boite presque hermétique pouvant contenir 3 à 4 fois la quantité de pate initiale
+- Une cocotte avec un couvercle qui va au four
 
 ## Préparation
 1. Mélanger la farine, la levure et le sel.
@@ -46,4 +49,4 @@ La pate est devenue très collante. C'est  normal. Il faut bien de fariner les m
 
 ## Notes
 La cocotte doit être bien chaude.
-Il n'est pas nécessaire de petrir la pate. 
+Il n'est pas nécessaire de petrir la pate.
