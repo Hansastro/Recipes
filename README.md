@@ -7,7 +7,7 @@ La terre fait aussi parti des sujets d'astronomie. Si nous voulons permetre au g
 Vous trouverez sur ces pages des recettes de cuisine aillant une empreinte écologique et éthique minimale.
 
 ## En Francais
-[Crêpes](Crepes/Crepes_fr.md)
-[Pain cocotte](pot_bread/pot_bread_fr.md)
+- [Crêpes](Crepes/Crepes_fr.md)
+- [Pain cocotte](pot_bread/pot_bread_fr.md)
 
 
