@@ -1,6 +1,6 @@
 # Crêpes
 
-Il n'y a pas de poule ni de vache dans l'espace. Il est possible de faire des crêpes avec d'autres ingrédient. Sans oeuf ni lait ni beurre, cette recette promet de bonne crêpes avec un empreinte écologique et éthique soutenable.
+Il n'y a ni poule ni vache dans l'espace. Il est possible de faire des crêpes avec d'autres ingrédient. Sans oeuf ni lait ni beurre, cette recette promet de bonne crêpes avec une empreinte écologique et éthique soutenable.
 
 ## Ingedients
 - 500g de farine
