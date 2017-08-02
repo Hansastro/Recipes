@@ -19,5 +19,5 @@ Bien mélanger tous les ingrédients.
 Laisser reposer plusieurs heures.
 
 ## Notes
-La compote de pomme remplace l'oeuf. La Maizena sert aussi de liant et rend les crêpes plus légères. Le lait de riz rend aussi les crêpes plus légères (avec du lait d'amande de résultat n'est pas le même).
+La compote de pomme remplace l'oeuf. La Maizena sert aussi de liant et rend les crêpes plus légères. Le lait de riz rend aussi les crêpes plus légères (avec du lait d'amande de résultat n'est pas le même. Le lait d'avoine peut donner de bons résultats).
 La canelle est à mettre avec précaution car elle fait resortir le gout les pommes.
