@@ -12,7 +12,8 @@ Base :
 - 80g de Flocons d’Avoine -1 càs de Paprika Fumé
 - 2 càs de Jus de Citron
 - 1 càc d’Oignon Déshydraté
-- 1/2 càc d’Ail Semoule -Sel
+- 1/2 càc d’Ail Semoule
+- Sel
 
 Gélifiant:
 - 2 + 1/2 càs d’agar-agar
