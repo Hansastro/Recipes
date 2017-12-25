@@ -10,5 +10,6 @@ Vous trouverez sur ces pages des recettes de cuisine aillant une empreinte écol
 - [Crêpes](Crepes/Crepes_fr.md)
 - [Pain cocotte](pot_bread/pot_bread_fr.md)
 - [Fromage Vegan](Vegan_Cheese/Vegan_Cheese_fr.md)
+- [La Mique](mique/mique_fr.md)
 
 
