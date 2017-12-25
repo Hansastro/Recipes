@@ -11,7 +11,7 @@ Recette de pain vapeur Corrèzien.
 - 60ml d'eau tiede (1/16ième de litre)
 
 Pour la cuisson:
-- Du bouillon de légume pur la cuisson
+- Du bouillon de légume pour la cuisson
 - Du thym
 - Du laurier
 
@@ -22,7 +22,7 @@ Pétrir la pate.
 
 La laisser lever.
 
-Faire bouillir de l'eau avec du bouillon de legume du thym et du laurier
+Faire bouillir de l'eau avec du bouillon de légume, du thym et du laurier.
 
 ### Variante 1: Cuisson à la vapeur
 Faire le lever la pate dans un torchon.
@@ -34,4 +34,4 @@ Faire cuire diretement dans l'eau
 
 Temps de cuisson: 20 minute à feu vif.
 
-## Note
+## Notes
