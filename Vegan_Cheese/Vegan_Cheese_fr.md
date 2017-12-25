@@ -9,7 +9,8 @@ Base :
 - 25cl d’Eau
 - 40g de Levure Diététique
 - 80g de Poivrons ou Piments Grillés en conserve 
-- 80g de Flocons d’Avoine -1 càs de Paprika Fumé
+- 80g de Flocons d’Avoine
+- 1 càs de Paprika Fumé
 - 2 càs de Jus de Citron
 - 1 càc d’Oignon Déshydraté
 - 1/2 càc d’Ail Semoule
