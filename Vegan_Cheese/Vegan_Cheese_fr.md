@@ -1,6 +1,5 @@
 # Recette de Fromage Vegan sans huile et sans soja.
-Recette trouvé sur la chaine de Lloyd Lang:
-https://www.youtube.com/watch?v=XsITP9z_K7k
+Recette trouvé sur la chaine de [Lloyd Lang](https://www.youtube.com/watch?v=XsITP9z_K7k)
 
 ## ingredients
 
