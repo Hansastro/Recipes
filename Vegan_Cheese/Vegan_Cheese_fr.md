@@ -1,5 +1,5 @@
 # Recette de Fromage Vegan sans huile et sans soja.
-Recette trouvé sur la chaine de [Lloyd Lang](https://www.youtube.com/watch?v=XsITP9z_K7k)
+Recette trouvée sur la chaine Youtube de [Lloyd Lang](https://www.youtube.com/watch?v=XsITP9z_K7k)
 
 ## ingredients
 
@@ -26,7 +26,7 @@ Mettre les ingédients (sauf le gélifiant) dans un robot de cuisine.
 
 Mixer le tout.
 
-Une fois le mélange pateux, préparer l'agar-agar. Mèlanger le tout et rapidement verser le mélange dans des moules.
+Une fois le mélange pateux, préparer l'agar-agar. Mèlanger le tout et, rapidement, verser le mélange dans des moules.
 
 Laisser gélifier.
 
