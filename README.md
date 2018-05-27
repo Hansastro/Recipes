@@ -11,5 +11,6 @@ Vous trouverez sur ces pages des recettes de cuisine aillant une empreinte écol
 - [Pain cocotte](pot_bread/pot_bread_fr.md)
 - [Fromage Vegan](Vegan_Cheese/Vegan_Cheese_fr.md)
 - [La Mique](mique/mique_fr.md)
+- [Brownies choco-veggi](choco_veggi_brownie/choco_veggi_brownie.md)
 
 
