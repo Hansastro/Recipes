@@ -8,7 +8,7 @@ Vous trouverez sur ces pages des recettes de cuisine aillant une empreinte écol
 
 | En Francais | In Deutch |
 |---|---|
-| - [Crêpes](Crepes/Crepes_fr.md) | - [Crêpe](Crepes/Crepes_de.md) |
+| - [Crêpes](Crepes/Crepes_fr.md) | - [Crêpes](Crepes/Crepes_de.md) |
 | - [Pain cocotte](pot_bread/pot_bread_fr.md) |
 | - [Fromage Vegan](Vegan_Cheese/Vegan_Cheese_fr.md) |
 | - [La Mique](mique/mique_fr.md) |
