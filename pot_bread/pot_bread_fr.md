@@ -18,7 +18,7 @@ La préparation est rapide mais la levée lente (20 heure en tout)
 2. Ajouter l'eau.
 3. Travailler la pate jusqu'a obtenir une pate homogène.
 
-Il n'est pas necéssaire de pétrir la pate. Il faut juste la rendre homogène. La pate est collante et très souple. C'est normal. Ajuster la quantité d'eau en concequence.
+Il n'est pas necéssaire de pétrir la pâte. Il faut juste la rendre homogène. La pate est collante et très souple. C'est normal. Ajuster la quantité d'eau en concequence.
 
 4. Mettre le paton dans une boite presque hermétique (poser juste le couvercle dessus).
 5. Laisser reposer 18h dans un endroit plutot chaud (idéalement 23°C).
