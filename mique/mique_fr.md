@@ -30,7 +30,7 @@ Faire le lever la pate dans un torchon.
 Mettre le torchon sur un support surelevé et faire cuire à la vapeur.
 
 ### Variante 2: Cuisson dans l'eau
-Faire cuire diretement dans l'eau
+Faire cuire directement dans l'eau
 
 Temps de cuisson: 20 minute à feu vif.
 
