@@ -3,8 +3,6 @@
 Rezept of Patties for Veggie Burger
 
 ## Zutanen
-
-Base :
 - Rote Bohen (Gekocht)
 - Linzen (Gekocht)
 - Zwiebel
@@ -16,11 +14,11 @@ Base :
 - Mehl (ein Kochlöffel)
 - Öl für die Pfanne
 
-## Preparation
+## Vorbereitung
 - Zwiebel und Knobloch in Kuchenmachine düne hacken
 . Das Rest die Zutanen in Kuchenmachine grob hacken
 - Mit nasse Hände die Patties formen
 - In Pfanne mit Öl kochen
 
-## Notes
+## Anmerkungen
 Nicht zu viel Hefe Flocken.
