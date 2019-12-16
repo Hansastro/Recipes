@@ -22,7 +22,7 @@ Recette typique du Berry.
 - Petrir la pâte.
 - Quand la pâte est souple, ajouter le reste de la faisselle.
 - Petrir la pâte de nouveau.
-- Mettre la pâte au réfrgirateur 1 heure.
+- Mettre la pâte au réfrigirateur 1 heure.
 
 ### La pâte feuilletée
 - Sortir le beurre pour qu'il ramolisse
