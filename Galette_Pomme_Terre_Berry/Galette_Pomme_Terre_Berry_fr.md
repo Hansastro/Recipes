@@ -7,7 +7,7 @@ Recette typique du Berry.
 - 200g de beurre (50g pour la purée et 150g pour la pate feuilleté)
 - 300g de farine
 - un jaune d’œuf pour la pâte et un ou deux pour la dorure.
-- 150g de faisselle de chèvre
+- 60g de faisselle de chèvre
 - 10g de sel
 
 ## Préparation
