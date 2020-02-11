@@ -21,7 +21,7 @@ Rezept of Patties for Veggie Burger
 - In Pfanne mit Öl kochen oder in Backoffen
 
 ## Anmerkungen
-Nicht zu viel Hefe Flocken sonst ist der Geschmack zu stark.
-Die Bohnen sollen groß gehackt sein.
-Variationen sind möglich mit Kichererbsen, Weiße Bohnen z.B.
-Zu Linzen, Bohnen oder Kirscherbsen macht die Preparation klitschig die Hafer Flocklen geben eine Texture.
+- Nicht zu viel Hefe Flocken sonst ist der Geschmack zu stark.
+- Die Bohnen sollen groß gehackt sein.
+- Variationen sind möglich mit Kichererbsen, Weiße Bohnen z.B.
+- Zu Linzen, Bohnen oder Kirscherbsen macht die Preparation klitschig die Hafer Flocklen geben eine Texture.
