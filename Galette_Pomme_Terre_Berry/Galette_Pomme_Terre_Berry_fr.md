@@ -18,7 +18,7 @@ Recette typique du Berry.
 ### La pâte
 - Laisser refroidir
 - Mélanger la farine, le sel, la purée.
-- Ajouter 100g de faisselle et et le jaune d'oeuf.
+- Ajouter la moitié de la faisselle et le jaune d'oeuf.
 - Petrir la pâte.
 - Quand la pâte est souple, ajouter le reste de la faisselle.
 - Petrir la pâte de nouveau.
